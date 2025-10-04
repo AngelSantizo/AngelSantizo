@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hola!👋
 
-# 💫 About Me:
-🔭 En busqueda constante de participar en nuevos proyectos y aprender más!<br>👯 Sientete en la libertad de hacerme saber tu feedback!<br>🤝 Para los reclutadores, vamos, solo dame el chance <br>🌱 Queriendo desarrollarme como Front-end Developer.<br>💬 Todavia me falte mucho pero ahi vamos.<br>⚡ Me gusta mucho Crystal Castles y el shoegaze.
+# 💫 Sobre Mi:
+🔭 En busqueda constante de participar en nuevos proyectos y aprender más!<br>👯 Sientete en la libertad de hacerme saber tu feedback!<br>🤝 Para los reclutadores, vamos, solo dame el chance <br>🌱 Queriendo desarrollarme como Front-end Developer. Aprendo en varios lugares, desde universidad, hasta en cursos independientes.<br>💬 Todavia me falte mucho pero ahi vamos.<br>⚡ Me gusta mucho Crystal Castles y el shoegaze.
 
 
 ## 🌐 Socials:
